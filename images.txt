@@ -1,1 +1,1 @@
-ghcr.io/toeverything/affine-graphql:latest
+pgvector/pgvector:pg16
