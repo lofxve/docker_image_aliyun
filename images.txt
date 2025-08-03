@@ -1,1 +1,1 @@
-docker.getoutline.com/outlinewiki/outline:latest
+steveltn/https-portal
